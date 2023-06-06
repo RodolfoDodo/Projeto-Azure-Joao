@@ -3,8 +3,7 @@ using OpenQA.Selenium;
 using OpenQA.Selenium.DevTools.V111.Network;
 using NUnit.Framework.Interfaces;
 using System.Xml;
-using AventStack.ExtentReports;
-using AventStack.ExtentReports.Reporter;
+
 
 namespace Projeto_Joa_Azure
 {
