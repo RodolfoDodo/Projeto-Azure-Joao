@@ -10,7 +10,6 @@ namespace Projeto_Joa_Azure
         [SetUp]
         public void Setup()
         {
-
         }
 
         [Test]
