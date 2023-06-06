@@ -6,11 +6,11 @@ namespace Projeto_Joa_Azure
 {
     public class Tests
     {
-        private string loginMessage;
 
         [SetUp]
         public void Setup()
         {
+
         }
 
         [Test]
