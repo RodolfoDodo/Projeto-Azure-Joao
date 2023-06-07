@@ -102,6 +102,3 @@ C:\Users\Usuario\source\repos\PROJETO-JOAO\Projeto-Joa-Azure\Projeto-Joa-Azure\o
 C:\Users\Usuario\source\repos\PROJETO-JOAO\Projeto-Joa-Azure\Projeto-Joa-Azure\obj\Debug\net6.0\Projeto-Joa-Azure.pdb
 C:\Users\Usuario\source\repos\PROJETO-JOAO\Projeto-Joa-Azure\Projeto-Joa-Azure\obj\Debug\net6.0\Projeto-Joa-Azure.genruntimeconfig.cache
 C:\Users\Usuario\source\repos\PROJETO-JOAO\Projeto-Joa-Azure\Projeto-Joa-Azure\obj\Debug\net6.0\ref\Projeto-Joa-Azure.dll
-C:\Users\Usuario\source\repos\PROJETO-JOAO\Projeto-Joa-Azure\Projeto-Joa-Azure\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.Extension.NUnit.Xml.TestLogger.dll
-C:\Users\Usuario\source\repos\PROJETO-JOAO\Projeto-Joa-Azure\Projeto-Joa-Azure\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.Extension.NUnit.Xml.TestAdapter.dll
-C:\Users\Usuario\source\repos\PROJETO-JOAO\Projeto-Joa-Azure\Projeto-Joa-Azure\bin\Debug\net6.0\Spekt.TestLogger.dll

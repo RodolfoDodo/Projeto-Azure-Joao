@@ -38,7 +38,7 @@ namespace Projeto_Joa_Azure
             driver.Navigate().GoToUrl("https://hom.eadtech.net/App/Student/User/Account/Login");
             driver.FindElement(By.Id("infoLogin")).SendKeys("Joao.filho@eadtech.com.br");
             driver.FindElement(By.Id("frmLoginSubmit")).Click();
-            Assert.That(driver.FindElement(By.Id("loginMessage")).Text, Is.EqualTo("Por favor, informe sua senha"));
+            Assert.That(driver.FindElement(By.Id("loginMessage")).Text, Is.EqualTo("Por favor, informe sua senha suhau"));
             driver.Close();
             driver.Quit();
         }
